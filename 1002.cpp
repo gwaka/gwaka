@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> ////ddddd
 #include<math.h>
 #include<iostream>
 double bigger(double ,double);
